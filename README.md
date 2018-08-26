@@ -9,6 +9,7 @@ A simple game prototype
 a resource miner. The player will start with a simple setup and will have to
 advance to a complex operation by clicking and choosing to upgrade their
 progression.
+
 **Game features:** Finite State Machine to govern the AI and let all the characters
 perform actions continuously in an ‘idling’ manner.
 
