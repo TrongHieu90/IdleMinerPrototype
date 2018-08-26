@@ -1,5 +1,5 @@
-# IdleMinerPrototype
-A simple game prototype
+# Idle Miner Prototype
+Incremental game prototype
 
 ![IdleMinerImg](https://github.com/TrongHieu90/IdleMinerPrototype/blob/master/ImgDocs/IdleMiner.jpg)
 
