@@ -1,7 +1,7 @@
 # IdleMinerPrototype
 A simple game prototype
 
-(IdleMinerImg)[https://github.com/TrongHieu90/IdleMinerPrototype/blob/master/ImgDocs/IdleMiner.jpg]
+[IdleMinerImg](https://github.com/TrongHieu90/IdleMinerPrototype/blob/master/ImgDocs/IdleMiner.jpg)
 
 ## There is a scene file in Sample Scene folder. Simply run it inside unity to run the prototype game.
 
